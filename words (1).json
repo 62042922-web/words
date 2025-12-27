@@ -1,0 +1,1546 @@
+[
+  {
+    "id": 1101,
+    "word": "labor",
+    "examples": [
+      { "en": "manual labor", "jp": "肉体労働" },
+      { "en": "skilled labor", "jp": "熟練した労働者" },
+      { "en": "go into labor", "jp": "陣痛が始まる" }
+    ]
+  },
+  {
+    "id": 1102,
+    "word": "overwork",
+    "examples": [
+      { "en": "stop overworking", "jp": "働き過ぎをやめる" },
+      { "en": "overwork the employees", "jp": "従業員を働かせすぎる" },
+      { "en": "Overwork made him ill.", "jp": "彼は過労で病気になった。" }
+    ]
+  },
+  {
+    "id": 1103,
+    "word": "firm",
+    "examples": [
+      { "en": "a law firm", "jp": "法律会社" },
+      { "en": "I am a firm believer in fate.", "jp": "私は運命をとても強く信じている。" },
+      { "en": "firm muscles", "jp": "引き締まった筋肉" }
+    ]
+  },
+  {
+    "id": 1104,
+    "word": "union",
+    "examples": [
+      { "en": "a union member", "jp": "労働組合員" },
+      { "en": "a union of two cities", "jp": "2都市の合併" },
+      { "en": "the former Soviet Union", "jp": "旧ソビエト連邦" }
+    ]
+  },
+  {
+    "id": 1105,
+    "word": "administration",
+    "examples": [
+      { "en": "school administration", "jp": "学校運営" },
+      { "en": "municipal administration", "jp": "市政" },
+      { "en": "the Trump administration", "jp": "トランプ政権" }
+    ]
+  },
+  {
+    "id": 1106,
+    "word": "secretary",
+    "examples": [
+      { "en": "a secretary to the president", "jp": "社長秘書" },
+      { "en": "the Secretary General", "jp": "事務総長" }
+    ]
+  },
+  {
+    "id": 1107,
+    "word": "editor",
+    "examples": [
+      { "en": "the editor of The Japan News", "jp": "ジャパンニュースの編集長" }
+    ]
+  },
+  {
+    "id": 1108,
+    "word": "client",
+    "examples": [
+      { "en": "The lawyer met a client yesterday.", "jp": "その弁護士は依頼人と昨日会った。" },
+      { "en": "one of our oldest clients", "jp": "最も古くからの取引先の1つ" }
+    ]
+  },
+  {
+    "id": 1109,
+    "word": "colleague",
+    "examples": [
+      { "en": "a colleague from work", "jp": "会社の同僚" }
+    ]
+  },
+  {
+    "id": 1110,
+    "word": "basis",
+    "examples": [
+      { "en": "on the basis of a new theory", "jp": "新しい理論を根拠にして" },
+      { "en": "The wages are paid on a weekly basis.", "jp": "毎週支払われる。" }
+    ]
+  },
+  {
+    "id": 1111,
+    "word": "element",
+    "examples": [
+      { "en": "a key element of his success", "jp": "彼の成功のかぎとなる要素" },
+      { "en": "be exposed to the elements", "jp": "自然の力にさらされる" },
+      { "en": "an element of truth", "jp": "いくらかの真理" }
+    ]
+  },
+  {
+    "id": 1112,
+    "word": "constitute",
+    "examples": [
+      { "en": "Fifty states constitute the USA.", "jp": "50の州が米国を構成している。" },
+      { "en": "The rise in Internet crime constitutes a threat to society.", "jp": "社会に対する脅威である。" }
+    ]
+  },
+  {
+    "id": 1113,
+    "word": "unify",
+    "examples": [
+      { "en": "unify the country", "jp": "国を統一する" }
+    ]
+  },
+  {
+    "id": 1114,
+    "word": "unite",
+    "examples": [
+      { "en": "unite in fighting poverty", "jp": "貧困撲滅で団結する" },
+      { "en": "Our party is closely united.", "jp": "我が党は結束が固い。" }
+    ]
+  },
+  {
+    "id": 1115,
+    "word": "combine",
+    "examples": [
+      { "en": "combine a diet with exercise", "jp": "ダイエットを運動と結びつける" },
+      { "en": "Hydrogen and oxygen combine to form water.", "jp": "水素と酸素が結びついて水を作る。" }
+    ]
+  },
+  {
+    "id": 1116,
+    "word": "murder",
+    "examples": [
+      { "en": "a brutal murder", "jp": "残忍な殺人" },
+      { "en": "a murder case", "jp": "殺人事件" },
+      { "en": "The king was murdered.", "jp": "その王は殺された。" }
+    ]
+  },
+  {
+    "id": 1117,
+    "word": "arrest",
+    "examples": [
+      { "en": "arrest a man for shoplifting", "jp": "万引きで男を逮捕する" },
+      { "en": "You're under arrest!", "jp": "お前を逮捕する！" }
+    ]
+  },
+  {
+    "id": 1118,
+    "word": "prison",
+    "examples": [
+      { "en": "Eric is in prison.", "jp": "エリックは服役中だ。" }
+    ]
+  },
+  {
+    "id": 1119,
+    "word": "vice",
+    "examples": [
+      { "en": "fight against vice on the streets", "jp": "街の犯罪と戦う" },
+      { "en": "Gambling is his only vice.", "jp": "ギャンブルが彼の唯一の悪い所だ。" },
+      { "en": "the vice president", "jp": "副大統領" }
+    ]
+  },
+  {
+    "id": 1120,
+    "word": "witness",
+    "examples": [
+      { "en": "the only witness to the murder", "jp": "その殺人の唯一の目撃者" },
+      { "en": "give witness", "jp": "証言する" },
+      { "en": "witness the accident", "jp": "その事故を目撃する" }
+    ]
+  },
+  {
+    "id": 1121,
+    "word": "conflict",
+    "examples": [
+      { "en": "a conflict between two parties", "jp": "2つの政党の間の対立" },
+      { "en": "a psychological conflict", "jp": "心の葛藤" },
+      { "en": "This conflicts with his theory.", "jp": "彼の理論と矛盾する。" }
+    ]
+  },
+  {
+    "id": 1122,
+    "word": "bullet",
+    "examples": [
+      { "en": "The bullet passed through his right leg.", "jp": "弾丸は彼の右足を貫通した。" }
+    ]
+  },
+  {
+    "id": 1123,
+    "word": "wound",
+    "examples": [
+      { "en": "The wound still hurts.", "jp": "傷がまだ痛む。" },
+      { "en": "wounded soldiers", "jp": "傷を負った兵士たち" }
+    ]
+  },
+  {
+    "id": 1124,
+    "word": "triumph",
+    "examples": [
+      { "en": "her triumph in the election", "jp": "選挙での彼女の勝利" },
+      { "en": "Virtue always triumphs over vice.", "jp": "善は常に悪に勝つ。" }
+    ]
+  },
+  {
+    "id": 1125,
+    "word": "military",
+    "examples": [
+      { "en": "use military force", "jp": "軍事力を使う" }
+    ]
+  },
+  {
+    "id": 1126,
+    "word": "strategy",
+    "examples": [
+      { "en": "a strategy for winning the game", "jp": "その試合に勝つための戦略" }
+    ]
+  },
+  {
+    "id": 1127,
+    "word": "conquer",
+    "examples": [
+      { "en": "The Normans conquered England in 1066.", "jp": "イングランドを征服した。" },
+      { "en": "conquer my fear of the dark", "jp": "暗闇に対する恐怖を克服する" }
+    ]
+  },
+  {
+    "id": 1128,
+    "word": "defend",
+    "examples": [
+      { "en": "learn karate to defend myself", "jp": "自分の身を守るために空手を習う" }
+    ]
+  },
+  {
+    "id": 1129,
+    "word": "quarrel",
+    "examples": [
+      { "en": "quarrel with a neighbor", "jp": "近所の人と口論する" },
+      { "en": "have a terrible quarrel with him", "jp": "彼とひどい口論をする" }
+    ]
+  },
+  {
+    "id": 1130,
+    "word": "rob",
+    "examples": [
+      { "en": "The pirates robbed the ship.", "jp": "海賊はその船を襲った。" },
+      { "en": "She was robbed of her handbag.", "jp": "彼女はハンドバッグを奪われた。" }
+    ]
+  },
+  {
+    "id": 1131,
+    "word": "deprive",
+    "examples": [
+      { "en": "Diana was deprived of her civil rights.", "jp": "公民権を剥奪された。" }
+    ]
+  },
+  {
+    "id": 1132,
+    "word": "devastate",
+    "examples": [
+      { "en": "The city was devastated by a big earthquake.", "jp": "都市は大地震で壊滅した。" },
+      { "en": "He was devastated by the news of her death.", "jp": "彼は彼女の死の知らせに打ちのめされた。" }
+    ]
+  },
+  {
+    "id": 1133,
+    "word": "hazard",
+    "examples": [
+      { "en": "Steep stairs can be a hazard for elderly people.", "jp": "高齢者にとって危険になり得る。" }
+    ]
+  },
+  {
+    "id": 1134,
+    "word": "orphan",
+    "examples": [
+      { "en": "a war orphan", "jp": "戦争孤児" }
+    ]
+  },
+  {
+    "id": 1135,
+    "word": "infant",
+    "examples": [
+      { "en": "a breast-fed infant", "jp": "母乳で育てられた幼児" }
+    ]
+  },
+  {
+    "id": 1136,
+    "word": "slave",
+    "examples": [
+      { "en": "free the slaves", "jp": "奴隷を解放する" },
+      { "en": "a slave to work", "jp": "仕事の奴隷" }
+    ]
+  },
+  {
+    "id": 1137,
+    "word": "acquaintance",
+    "examples": [
+      { "en": "an old acquaintance", "jp": "昔からの知り合い" },
+      { "en": "have some acquaintance with Latin", "jp": "ラテン語を多少知っている" }
+    ]
+  },
+  {
+    "id": 1138,
+    "word": "merchant",
+    "examples": [
+      { "en": "a wine merchant", "jp": "ワイン店を営む商人" }
+    ]
+  },
+  {
+    "id": 1139,
+    "word": "resident",
+    "examples": [
+      { "en": "Parking spaces are for residents only.", "jp": "駐車スペースは居住者専用です。" },
+      { "en": "a foreign resident of Japan", "jp": "外国人の日本滞在者" },
+      { "en": "be resident in Tokyo", "jp": "東京に住んでいる" }
+    ]
+  },
+  {
+    "id": 1140,
+    "word": "crew",
+    "examples": [
+      { "en": "passengers and crew on the plane", "jp": "飛行機の乗客と乗組員" },
+      { "en": "a camera crew", "jp": "テレビカメラ班" }
+    ]
+  },
+  {
+    "id": 1141,
+    "word": "commute",
+    "examples": [
+      { "en": "commute to work by train", "jp": "電車を使って通勤する" },
+      { "en": "My commute takes around one hour.", "jp": "通勤には1時間くらいかかります。" }
+    ]
+  },
+  {
+    "id": 1142,
+    "word": "chase",
+    "examples": [
+      { "en": "Police chased the stolen car.", "jp": "警察はその盗難車を追いかけた。" },
+      { "en": "After a long chase, I finally caught the thief.", "jp": "長い追跡の末" }
+    ]
+  },
+  {
+    "id": 1143,
+    "word": "overtake",
+    "examples": [
+      { "en": "overtake the truck ahead of us", "jp": "前のトラックを追い越す" }
+    ]
+  },
+  {
+    "id": 1144,
+    "word": "fade",
+    "examples": [
+      { "en": "Childhood memories fade as time passes.", "jp": "子どものころの記憶は薄れる。" }
+    ]
+  },
+  {
+    "id": 1145,
+    "word": "dissolve",
+    "examples": [
+      { "en": "Salt dissolves in hot water.", "jp": "塩が熱湯に溶ける。" },
+      { "en": "dissolve salt in hot water", "jp": "熱湯で塩を溶かす" },
+      { "en": "dissolve the Diet", "jp": "国会を解散する" }
+    ]
+  },
+  {
+    "id": 1146,
+    "word": "float",
+    "examples": [
+      { "en": "float on the sea", "jp": "海面に浮かぶ" },
+      { "en": "float a raft on the river", "jp": "川にいかだを浮かべる" }
+    ]
+  },
+  {
+    "id": 1147,
+    "word": "sink",
+    "examples": [
+      { "en": "Oil does not sink in water.", "jp": "油は水に沈まない。" },
+      { "en": "sink enemy ships", "jp": "敵艦を沈める" },
+      { "en": "unwashed dishes in the sink", "jp": "流しの中の洗っていない皿" }
+    ]
+  },
+  {
+    "id": 1148,
+    "word": "fluctuate",
+    "examples": [
+      { "en": "Stock prices are fluctuating wildly.", "jp": "株価は激しく変動している。" }
+    ]
+  },
+  {
+    "id": 1149,
+    "word": "circulate",
+    "examples": [
+      { "en": "Blood circulates through the body.", "jp": "血液は体内を循環する。" },
+      { "en": "circulate a memo", "jp": "メモをみんなに回す" }
+    ]
+  },
+  {
+    "id": 1150,
+    "word": "transform",
+    "examples": [
+      { "en": "transform the old house into a restaurant", "jp": "古い家を改造してレストランにする" },
+      { "en": "This car can transform into a robot.", "jp": "ロボットに変身できる" }
+    ]
+  },
+  {
+    "id": 1151,
+    "word": "shift",
+    "examples": [
+      { "en": "a paradigm shift", "jp": "理論的枠組の転換" },
+      { "en": "work on the night shift", "jp": "夜間交替勤務で働く" }
+    ]
+  },
+  {
+    "id": 1152,
+    "word": "modify",
+    "examples": [
+      { "en": "genetically modified foods", "jp": "遺伝子組み換え食品" }
+    ]
+  },
+  {
+    "id": 1153,
+    "word": "revise",
+    "examples": [
+      { "en": "revise the education system", "jp": "教育制度を改正する" }
+    ]
+  },
+  {
+    "id": 1154,
+    "word": "vehicle",
+    "examples": [
+      { "en": "emergency vehicles", "jp": "緊急車両" },
+      { "en": "Poetry is the vehicle of my ideas.", "jp": "思想を伝達する手段です。" }
+    ]
+  },
+  {
+    "id": 1155,
+    "word": "voyage",
+    "examples": [
+      { "en": "take a voyage around the world", "jp": "世界一周の船旅をする" }
+    ]
+  },
+  {
+    "id": 1156,
+    "word": "confirm",
+    "examples": [
+      { "en": "confirm the booking", "jp": "予約を確認する" },
+      { "en": "confirm his theory", "jp": "彼の理論を裏付ける" }
+    ]
+  },
+  {
+    "id": 1157,
+    "word": "ensure",
+    "examples": [
+      { "en": "Please ensure that you leave nothing behind.", "jp": "忘れ物をしないように確実にしてください。" }
+    ]
+  },
+  {
+    "id": 1158,
+    "word": "address",
+    "examples": [
+      { "en": "address an environmental problem", "jp": "環境問題に取り組む" },
+      { "en": "address the nation", "jp": "国民に呼びかける" },
+      { "en": "an opening address", "jp": "開会の辞" },
+      { "en": "the sender's address", "jp": "差出人の住所" }
+    ]
+  },
+  {
+    "id": 1159,
+    "word": "approach",
+    "examples": [
+      { "en": "a new approach to teaching languages", "jp": "新たな取り組み方" },
+      { "en": "approach the problem carefully", "jp": "その問題に慎重に取り組む" }
+    ]
+  },
+  {
+    "id": 1160,
+    "word": "resolve",
+    "examples": [
+      { "en": "resolve the matter on my own", "jp": "自分でその問題を解決する" },
+      { "en": "After his divorce, he resolved to remain single for the rest of his life.", "jp": "一生独身でいる決意をした。" }
+    ]
+  },
+  {
+    "id": 1161,
+    "word": "settle",
+    "examples": [
+      { "en": "settle the dispute", "jp": "紛争を解決する" },
+      { "en": "settle a bag on my shoulder", "jp": "バッグを肩にかける" },
+      { "en": "settle down in Brazil", "jp": "ブラジルに定住する" },
+      { "en": "settle on a name for our new dog", "jp": "イヌの名前を決める" }
+    ]
+  },
+  {
+    "id": 1162,
+    "word": "warn",
+    "examples": [
+      { "en": "warn him to follow the rules", "jp": "規則に従うよう彼に警告する" }
+    ]
+  },
+  {
+    "id": 1163,
+    "word": "force",
+    "examples": [
+      { "en": "The older kids forced him to shoplift.", "jp": "彼に万引きするように強いた。" },
+      { "en": "the forces of nature", "jp": "自然の力" }
+    ]
+  },
+  {
+    "id": 1164,
+    "word": "boost",
+    "examples": [
+      { "en": "boost the team's morale", "jp": "チームの士気を高める" }
+    ]
+  },
+  {
+    "id": 1165,
+    "word": "appeal",
+    "examples": [
+      { "en": "appeal to our emotions", "jp": "感情に訴えかける" },
+      { "en": "have a wide appeal among young people", "jp": "幅広い人気がある" },
+      { "en": "a UN appeal for a ceasefire", "jp": "停戦の訴え" }
+    ]
+  },
+  {
+    "id": 1166,
+    "word": "leap",
+    "examples": [
+      { "en": "A fish leapt out of a pond.", "jp": "魚が池の中から跳び出た。" },
+      { "en": "by leaps and bounds", "jp": "飛躍的に" }
+    ]
+  },
+  {
+    "id": 1167,
+    "word": "grab",
+    "examples": [
+      { "en": "grab him by the neck", "jp": "首根っこをつかむ" },
+      { "en": "grab a hamburger for lunch", "jp": "ハンバーガーをさっと食べる" }
+    ]
+  },
+  {
+    "id": 1168,
+    "word": "seize",
+    "examples": [
+      { "en": "seize her by the shoulder", "jp": "彼女の肩をつかむ" },
+      { "en": "seize drugs", "jp": "麻薬を押収する" }
+    ]
+  },
+  {
+    "id": 1169,
+    "word": "cast",
+    "examples": [
+      { "en": "cast a net around a school of tuna", "jp": "網を投げ入れる" },
+      { "en": "cast a new light on the problem", "jp": "新たな光を投げかける" },
+      { "en": "cast him in the part of Romeo", "jp": "役を与える" }
+    ]
+  },
+  {
+    "id": 1170,
+    "word": "slap",
+    "examples": [
+      { "en": "slap him in the face", "jp": "彼の顔を平手打ちする" }
+    ]
+  },
+  {
+    "id": 1171,
+    "word": "stun",
+    "examples": [
+      { "en": "stun him with a blow", "jp": "殴って彼を気絶させる" },
+      { "en": "be stunned at the news", "jp": "知らせを聞いてぼう然とする" }
+    ]
+  },
+  {
+    "id": 1172,
+    "word": "illuminate",
+    "examples": [
+      { "en": "a beautifully illuminated castle", "jp": "美しく照らされた城" },
+      { "en": "illuminate the difficult issue", "jp": "難しい問題を解明する" }
+    ]
+  },
+  {
+    "id": 1173,
+    "word": "mend",
+    "examples": [
+      { "en": "mend a tear in my jacket", "jp": "上着のほころびを修繕する" }
+    ]
+  },
+  {
+    "id": 1174,
+    "word": "react",
+    "examples": [
+      { "en": "react angrily to the news", "jp": "怒りの反応を示す" }
+    ]
+  },
+  {
+    "id": 1175,
+    "word": "endure",
+    "examples": [
+      { "en": "endure years of suffering", "jp": "長年の苦労に耐える" }
+    ]
+  },
+  {
+    "id": 1176,
+    "word": "encounter",
+    "examples": [
+      { "en": "encounter a bear in the woods", "jp": "クマに遭遇する" },
+      { "en": "encounter serious problems", "jp": "深刻な問題にぶつかる" },
+      { "en": "my first encounter with her", "jp": "私と彼女の最初の出会い" }
+    ]
+  },
+  {
+    "id": 1177,
+    "word": "neglect",
+    "examples": [
+      { "en": "neglect my duty", "jp": "義務を怠る" },
+      { "en": "neglect a child", "jp": "子どもの世話をしない" },
+      { "en": "child abuse and neglect", "jp": "児童の虐待と放置" }
+    ]
+  },
+  {
+    "id": 1178,
+    "word": "undergo",
+    "examples": [
+      { "en": "undergo cosmetic surgery", "jp": "美容整形手術を受ける" }
+    ]
+  },
+  {
+    "id": 1179,
+    "word": "trace",
+    "examples": [
+      { "en": "trace a missing person", "jp": "行方不明の人を捜し出す" },
+      { "en": "trace my family tree back 100 years", "jp": "系譜をさかのぼる" },
+      { "en": "disappear without trace", "jp": "跡形もなく消える" }
+    ]
+  },
+  {
+    "id": 1180,
+    "word": "conduct",
+    "examples": [
+      { "en": "conduct a survey", "jp": "調査を行う" },
+      { "en": "conduct electricity", "jp": "電気を伝える" },
+      { "en": "a code of conduct", "jp": "行動規範" }
+    ]
+  },
+  {
+    "id": 1181,
+    "word": "emerge",
+    "examples": [
+      { "en": "emerge from the darkness", "jp": "暗闇から現れる" },
+      { "en": "Japan emerged as a modern state.", "jp": "近代国家として台頭した。" }
+    ]
+  },
+  {
+    "id": 1182,
+    "word": "unfold",
+    "examples": [
+      { "en": "How will that drama unfold?", "jp": "どのように展開するのだろう。" },
+      { "en": "unfold a map", "jp": "地図を広げる" }
+    ]
+  },
+  {
+    "id": 1183,
+    "word": "derive",
+    "examples": [
+      { "en": "This word derives from Latin.", "jp": "ラテン語に由来する。" },
+      { "en": "derive pleasure from reading", "jp": "読書から楽しみを得る" }
+    ]
+  },
+  {
+    "id": 1184,
+    "word": "possess",
+    "examples": [
+      { "en": "Every child possesses a range of abilities.", "jp": "多彩な才能を所有している。" }
+    ]
+  },
+  {
+    "id": 1185,
+    "word": "retain",
+    "examples": [
+      { "en": "retain her beauty", "jp": "彼女の美しさを保持する" }
+    ]
+  },
+  {
+    "id": 1186,
+    "word": "secure",
+    "examples": [
+      { "en": "secure a window seat", "jp": "窓側の席を確保する" },
+      { "en": "feel secure about the future", "jp": "将来に対して安心感をもつ" }
+    ]
+  },
+  {
+    "id": 1187,
+    "word": "capture",
+    "examples": [
+      { "en": "The monkey that escaped from the zoo was captured.", "jp": "サルが捕獲された。" },
+      { "en": "avoid capture", "jp": "逮捕を逃れる" }
+    ]
+  },
+  {
+    "id": 1188,
+    "word": "inquiry",
+    "examples": [
+      { "en": "an inquiry into his background", "jp": "身元調査" },
+      { "en": "receive inquiries from several companies", "jp": "会社から問い合わせがある" }
+    ]
+  },
+  {
+    "id": 1189,
+    "word": "specialize",
+    "examples": [
+      { "en": "specialize in business administration", "jp": "経営学を専攻する" },
+      { "en": "specialize in imported groceries", "jp": "輸入食料雑貨品を専門に扱う" }
+    ]
+  },
+  {
+    "id": 1190,
+    "word": "semester",
+    "examples": [
+      { "en": "the first semester", "jp": "前期" }
+    ]
+  },
+  {
+    "id": 1191,
+    "word": "biology",
+    "examples": [
+      { "en": "Biology is the scientific study of living things.", "jp": "生物学は生物の科学的な研究です。" }
+    ]
+  },
+  {
+    "id": 1192,
+    "word": "ecology",
+    "examples": [
+      { "en": "the ecology of jellyfish", "jp": "クラゲの生態" }
+    ]
+  },
+  {
+    "id": 1193,
+    "word": "philosophy",
+    "examples": [
+      { "en": "the philosophy of Aristotle", "jp": "アリストテレスの哲学" },
+      { "en": "my philosophy of life", "jp": "私の人生哲学" }
+    ]
+  },
+  {
+    "id": 1194,
+    "word": "geography",
+    "examples": [
+      { "en": "a great discovery in geography", "jp": "地理上の偉大な発見" }
+    ]
+  },
+  {
+    "id": 1195,
+    "word": "psychology",
+    "examples": [
+      { "en": "a book on psychology", "jp": "心理学の本" },
+      { "en": "the psychology of five-year-olds", "jp": "5歳児の心理" }
+    ]
+  },
+  {
+    "id": 1196,
+    "word": "institution",
+    "examples": [
+      { "en": "educational institutions", "jp": "教育機関" },
+      { "en": "social institutions such as marriage", "jp": "結婚などの社会制度" }
+    ]
+  },
+  {
+    "id": 1197,
+    "word": "dormitory",
+    "examples": [
+      { "en": "live in a dormitory", "jp": "寮生活をする" }
+    ]
+  },
+  {
+    "id": 1198,
+    "word": "notion",
+    "examples": [
+      { "en": "the notion that smoking is cool", "jp": "タバコを吸うのは格好いいという考え" }
+    ]
+  },
+  {
+    "id": 1199,
+    "word": "concept",
+    "examples": [
+      { "en": "the concept of time", "jp": "時間の概念" }
+    ]
+  },
+  {
+    "id": 1200,
+    "word": "meditation",
+    "examples": [
+      { "en": "sit in Zen meditation", "jp": "座禅" },
+      { "en": "meditation on my life", "jp": "人生についての熟考" }
+    ]
+  },
+  {
+    "id": 1201,
+    "word": "insight",
+    "examples": [
+      { "en": "an insight into human nature", "jp": "人間性への洞察" },
+      { "en": "a woman of great insight", "jp": "見識の高い女性" }
+    ]
+  },
+  {
+    "id": 1202,
+    "word": "outlook",
+    "examples": [
+      { "en": "broaden my outlook on life", "jp": "人生観を広げる" },
+      { "en": "the economic outlook", "jp": "経済的な見通し" }
+    ]
+  },
+  {
+    "id": 1203,
+    "word": "caution",
+    "examples": [
+      { "en": "act with caution", "jp": "用心して行動する" },
+      { "en": "Caution! Roadworks!", "jp": "注意！道路工事中！" },
+      { "en": "The coach cautioned all the players.", "jp": "監督は全選手に注意を与えた。" }
+    ]
+  },
+  {
+    "id": 1204,
+    "word": "will",
+    "examples": [
+      { "en": "against my will", "jp": "意志に反して" },
+      { "en": "make a will", "jp": "遺書を作成する" }
+    ]
+  },
+  {
+    "id": 1205,
+    "word": "option",
+    "examples": [
+      { "en": "consider other options", "jp": "ほかの選択肢を考える" }
+    ]
+  },
+  {
+    "id": 1206,
+    "word": "nightmare",
+    "examples": [
+      { "en": "have a terrible nightmare", "jp": "ひどい悪夢を見る" },
+      { "en": "Working in the rain was a nightmare.", "jp": "雨の中での作業は悪夢だった。" }
+    ]
+  },
+  {
+    "id": 1207,
+    "word": "keen",
+    "examples": [
+      { "en": "have a keen eye for talent", "jp": "才能を見る鋭い目がある" },
+      { "en": "I am not keen on cabbage.", "jp": "私はキャベツが好きじゃない。" }
+    ]
+  },
+  {
+    "id": 1208,
+    "word": "cherish",
+    "examples": [
+      { "en": "cherish the memories of that day", "jp": "その日の思い出を大切にする" }
+    ]
+  },
+  {
+    "id": 1209,
+    "word": "intend",
+    "examples": [
+      { "en": "intend to see the movie", "jp": "その映画を見るつもりだ" }
+    ]
+  },
+  {
+    "id": 1210,
+    "word": "suspect",
+    "examples": [
+      { "en": "The police suspect that she stole the money.", "jp": "お金を盗んだのではないかと思う。" },
+      { "en": "We suspect that man.", "jp": "あの男が怪しいと思っている。" },
+      { "en": "the prime suspect", "jp": "有力な容疑者" }
+    ]
+  },
+  {
+    "id": 1211,
+    "word": "comprehend",
+    "examples": [
+      { "en": "I could not comprehend what had happened.", "jp": "何が起きたのかが理解できなかった。" }
+    ]
+  },
+  {
+    "id": 1212,
+    "word": "misunderstand",
+    "examples": [
+      { "en": "I am afraid you misunderstand me.", "jp": "君は私のことを誤解しているようだね。" }
+    ]
+  },
+  {
+    "id": 1213,
+    "word": "identify",
+    "examples": [
+      { "en": "identify the fingerprints", "jp": "指紋を特定する" },
+      { "en": "Never identify happiness with money.", "jp": "幸福を金と同一視するな。" },
+      { "en": "identify with that character", "jp": "そのキャラクターになりきる" }
+    ]
+  },
+  {
+    "id": 1214,
+    "word": "permit",
+    "examples": [
+      { "en": "Parking is not permitted here.", "jp": "駐車は許可されていません。" },
+      { "en": "a work permit", "jp": "就業許可証" }
+    ]
+  },
+  {
+    "id": 1215,
+    "word": "acknowledge",
+    "examples": [
+      { "en": "acknowledge the need for change", "jp": "変化の必要性を認める" }
+    ]
+  },
+  {
+    "id": 1216,
+    "word": "trim",
+    "examples": [
+      { "en": "trim the fat off the meat", "jp": "脂身を切り落とす" },
+      { "en": "a trim garden", "jp": "こぎれいな庭" }
+    ]
+  },
+  {
+    "id": 1217,
+    "word": "omit",
+    "examples": [
+      { "en": "His name was omitted from the list.", "jp": "名前は一覧からは省かれていた。" }
+    ]
+  },
+  {
+    "id": 1218,
+    "word": "cultivate",
+    "examples": [
+      { "en": "cultivate the land", "jp": "土地を耕す" },
+      { "en": "cultivate a relationship with her", "jp": "人間関係を育む" },
+      { "en": "cultivate a sense of beauty", "jp": "美的感覚を磨く" }
+    ]
+  },
+  {
+    "id": 1219,
+    "word": "shade",
+    "examples": [
+      { "en": "sit in the shade", "jp": "日陰に座る" },
+      { "en": "Shade has several shades of meaning.", "jp": "いくつかのわずかな違いがある。" }
+    ]
+  },
+  {
+    "id": 1220,
+    "word": "breeze",
+    "examples": [
+      { "en": "feel a sea breeze", "jp": "海のそよ風を感じる" }
+    ]
+  },
+  {
+    "id": 1221,
+    "word": "desert",
+    "examples": [
+      { "en": "the Sahara Desert", "jp": "サハラ砂漠" },
+      { "en": "She deserted her children.", "jp": "子どもたちを見捨てた。" }
+    ]
+  },
+  {
+    "id": 1222,
+    "word": "fog",
+    "examples": [
+      { "en": "The dense fog cleared.", "jp": "濃い霧が晴れた。" }
+    ]
+  },
+  {
+    "id": 1223,
+    "word": "moisture",
+    "examples": [
+      { "en": "Moisture is essential for keeping your skin youthful.", "jp": "湿気は皮膚を若々しく保つのに不可欠だ。" }
+    ]
+  },
+  {
+    "id": 1224,
+    "word": "damp",
+    "examples": [
+      { "en": "My shirt is still damp.", "jp": "シャツがまだ湿っている。" }
+    ]
+  },
+  {
+    "id": 1225,
+    "word": "path",
+    "examples": [
+      { "en": "a path to the mountaintop", "jp": "山頂への道" }
+    ]
+  },
+  {
+    "id": 1226,
+    "word": "trail",
+    "examples": [
+      { "en": "a hiking trail", "jp": "ハイキングコース" },
+      { "en": "be on the trail of a bear", "jp": "クマの跡にいる" },
+      { "en": "Hurricane Noel left a trail of destruction behind it.", "jp": "被害の爪跡を残した。" }
+    ]
+  },
+  {
+    "id": 1227,
+    "word": "stream",
+    "examples": [
+      { "en": "a mountain stream", "jp": "谷川" },
+      { "en": "an endless stream of visitors", "jp": "訪問客の流れ" }
+    ]
+  },
+  {
+    "id": 1228,
+    "word": "tide",
+    "examples": [
+      { "en": "The tide is in.", "jp": "潮の満干" },
+      { "en": "go with the tide of the times", "jp": "時流に乗る" }
+    ]
+  },
+  {
+    "id": 1229,
+    "word": "habitat",
+    "examples": [
+      { "en": "the natural habitat of sea lions", "jp": "アシカの自然生息地" }
+    ]
+  },
+  {
+    "id": 1230,
+    "word": "layer",
+    "examples": [
+      { "en": "the ozone layer", "jp": "オゾン層" }
+    ]
+  },
+  {
+    "id": 1231,
+    "word": "volcano",
+    "examples": [
+      { "en": "That volcano erupted last year.", "jp": "その火山は昨年噴火した。" }
+    ]
+  },
+  {
+    "id": 1232,
+    "word": "mine",
+    "examples": [
+      { "en": "work in a coal mine", "jp": "炭鉱で働く" },
+      { "en": "lay mines", "jp": "地雷を仕掛ける" }
+    ]
+  },
+  {
+    "id": 1233,
+    "word": "scent",
+    "examples": [
+      { "en": "the sweet scent of perfume", "jp": "香水の甘い香り" },
+      { "en": "The dogs followed the deer's scent.", "jp": "イヌたちはシカの臭いを追った。" }
+    ]
+  },
+  {
+    "id": 1234,
+    "word": "wheat",
+    "examples": [
+      { "en": "Wheat is the chief crop in this area.", "jp": "小麦はこの地域の主な作物です。" }
+    ]
+  },
+  {
+    "id": 1235,
+    "word": "swallow",
+    "examples": [
+      { "en": "One swallow does not make a summer.", "jp": "ツバメ一羽で夏になるわけではない。" },
+      { "en": "swallow a capsule", "jp": "カプセルを飲み込む" }
+    ]
+  },
+  {
+    "id": 1236,
+    "word": "web",
+    "examples": [
+      { "en": "an insect caught in a spider's web", "jp": "クモの巣にかかった昆虫" },
+      { "en": "via the Web", "jp": "インターネット経由で" }
+    ]
+  },
+  {
+    "id": 1237,
+    "word": "cattle",
+    "examples": [
+      { "en": "cattle, sheep, and other domestic animals", "jp": "ウシ、ヒツジ、とそれ以外の家畜" }
+    ]
+  },
+  {
+    "id": 1238,
+    "word": "kitten",
+    "examples": [
+      { "en": "a lost kitten", "jp": "迷子の子ネコ" }
+    ]
+  },
+  {
+    "id": 1239,
+    "word": "organism",
+    "examples": [
+      { "en": "microscopic organisms", "jp": "微生物" }
+    ]
+  },
+  {
+    "id": 1240,
+    "word": "wildlife",
+    "examples": [
+      { "en": "the wildlife of the Galapagos Islands", "jp": "ガラパゴス諸島の野生生物" }
+    ]
+  },
+  {
+    "id": 1241,
+    "word": "beast",
+    "examples": [
+      { "en": "the lion, the king of beasts", "jp": "百獣の王ライオン" }
+    ]
+  },
+  {
+    "id": 1242,
+    "word": "ape",
+    "examples": [
+      { "en": "great apes", "jp": "大型類人猿" }
+    ]
+  },
+  {
+    "id": 1243,
+    "word": "mammal",
+    "examples": [
+      { "en": "Whales are classified as mammals.", "jp": "クジラは哺乳類に分類されている。" }
+    ]
+  },
+  {
+    "id": 1244,
+    "word": "flock",
+    "examples": [
+      { "en": "a flock of crows", "jp": "カラスの一群" },
+      { "en": "Birds of a feather flock together.", "jp": "同じ羽の鳥は一緒に群れる。" }
+    ]
+  },
+  {
+    "id": 1245,
+    "word": "breed",
+    "examples": [
+      { "en": "Rabbits breed all year round.", "jp": "ウサギは年中繁殖する。" },
+      { "en": "breed sheep for the market", "jp": "ヒツジを繁殖させる" },
+      { "en": "Poverty breeds terrorism.", "jp": "貧困がテロを生み出す。" },
+      { "en": "Shibainu is my favorite breed.", "jp": "柴犬は私の好きな血統だ。" }
+    ]
+  },
+  {
+    "id": 1246,
+    "word": "reproduce",
+    "examples": [
+      { "en": "The virus can reproduce rapidly.", "jp": "ウイルスは急速に繁殖する。" },
+      { "en": "reproduce bacteria", "jp": "バクテリアを繁殖させる" },
+      { "en": "permission to reproduce the cartoon", "jp": "そのマンガを再現する許可" }
+    ]
+  },
+  {
+    "id": 1247,
+    "word": "hatch",
+    "examples": [
+      { "en": "The eggs hatched in thirty days.", "jp": "卵は30日でかえった。" },
+      { "en": "Don't count your chickens before they are hatched.", "jp": "かえる前にヒヨコを数えるな。" }
+    ]
+  },
+  {
+    "id": 1248,
+    "word": "diligent",
+    "examples": [
+      { "en": "a diligent student", "jp": "勤勉な学生" }
+    ]
+  },
+  {
+    "id": 1249,
+    "word": "noble",
+    "examples": [
+      { "en": "his noble character", "jp": "高潔な人格" },
+      { "en": "one of Scotland's noble families", "jp": "スコットランドの貴族の家柄" },
+      { "en": "a daughter of a noble", "jp": "貴族の娘" }
+    ]
+  },
+  {
+    "id": 1250,
+    "word": "arrogant",
+    "examples": [
+      { "en": "Society's elite tend to be arrogant.", "jp": "エリートは傲慢になりがちだ。" }
+    ]
+  },
+  {
+    "id": 1251,
+    "word": "timid",
+    "examples": [
+      { "en": "Rabbits are timid animals.", "jp": "ウサギは臆病な動物です。" }
+    ]
+  },
+  {
+    "id": 1252,
+    "word": "humble",
+    "examples": [
+      { "en": "a humble character", "jp": "控えめな性格の人" },
+      { "en": "children of humble backgrounds", "jp": "貧しい家の子どもたち" }
+    ]
+  },
+  {
+    "id": 1253,
+    "word": "inclined",
+    "examples": [
+      { "en": "People are inclined to judge someone by their appearance.", "jp": "判断する傾向にある。" },
+      { "en": "feel inclined to believe him", "jp": "信じてみようと思う" }
+    ]
+  },
+  {
+    "id": 1254,
+    "word": "principal",
+    "examples": [
+      { "en": "the country's principal export", "jp": "国の主な輸出品" },
+      { "en": "the principal's office", "jp": "校長室" }
+    ]
+  },
+  {
+    "id": 1255,
+    "word": "prime",
+    "examples": [
+      { "en": "the prime minister of Japan", "jp": "日本の首相" },
+      { "en": "1 is not a prime number.", "jp": "1は素数ではない。" }
+    ]
+  },
+  {
+    "id": 1256,
+    "word": "indispensable",
+    "examples": [
+      { "en": "Cars are indispensable to a rural lifestyle.", "jp": "車は田舎の生活に不可欠だ。" }
+    ]
+  },
+  {
+    "id": 1257,
+    "word": "grave",
+    "examples": [
+      { "en": "The ship was in grave danger.", "jp": "重大な危機に瀕していた。" },
+      { "en": "visit our ancestors' graves", "jp": "先祖のお墓参りに行く" }
+    ]
+  },
+  {
+    "id": 1258,
+    "word": "definite",
+    "examples": [
+      { "en": "a definite answer", "jp": "明確な答え" }
+    ]
+  },
+  {
+    "id": 1259,
+    "word": "evident",
+    "examples": [
+      { "en": "It was evident that he was not telling the truth.", "jp": "真実を言っていないのは明らかだった。" }
+    ]
+  },
+  {
+    "id": 1260,
+    "word": "prominent",
+    "examples": [
+      { "en": "The statue stood in a prominent position.", "jp": "目立った場所にあった。" },
+      { "en": "a prominent Japanese scientist", "jp": "著名な日本人科学者" }
+    ]
+  },
+  {
+    "id": 1261,
+    "word": "marked",
+    "examples": [
+      { "en": "a marked change in his behavior", "jp": "行動の際立った変化" }
+    ]
+  },
+  {
+    "id": 1262,
+    "word": "grace",
+    "examples": [
+      { "en": "the grace of the dancer", "jp": "ダンサーの優美さ" },
+      { "en": "say grace before meals", "jp": "食事の前にお祈りをささげる" }
+    ]
+  },
+  {
+    "id": 1263,
+    "word": "charm",
+    "examples": [
+      { "en": "have enormous charm", "jp": "大きな魅力がある" },
+      { "en": "wear a good-luck charm", "jp": "お守りを身につけている" }
+    ]
+  },
+  {
+    "id": 1264,
+    "word": "rational",
+    "examples": [
+      { "en": "make a rational decision", "jp": "理性的な決定をする" }
+    ]
+  },
+  {
+    "id": 1265,
+    "word": "magnificent",
+    "examples": [
+      { "en": "a magnificent view of Mt. Fuji", "jp": "富士山の壮大な眺め" }
+    ]
+  },
+  {
+    "id": 1266,
+    "word": "superior",
+    "examples": [
+      { "en": "Your bike is superior to mine.", "jp": "私のより優れている。" },
+      { "en": "his immediate superior", "jp": "彼の直属の上司" }
+    ]
+  },
+  {
+    "id": 1267,
+    "word": "loyal",
+    "examples": [
+      { "en": "a loyal supporter of the team", "jp": "チームの忠実な支持者" }
+    ]
+  },
+  {
+    "id": 1268,
+    "word": "horrible",
+    "examples": [
+      { "en": "That fish looks horrible but tastes terrific.", "jp": "見た目はひどいが、味はすばらしい。" }
+    ]
+  },
+  {
+    "id": 1269,
+    "word": "miserable",
+    "examples": [
+      { "en": "lead a miserable life", "jp": "悲惨な生活を送る" }
+    ]
+  },
+  {
+    "id": 1270,
+    "word": "dull",
+    "examples": [
+      { "en": "a dull TV program", "jp": "退屈なテレビ番組" },
+      { "en": "a dull knife", "jp": "切れ味の悪いナイフ" },
+      { "en": "a dull pain in my back", "jp": "腰の鈍痛" }
+    ]
+  },
+  {
+    "id": 1271,
+    "word": "nasty",
+    "examples": [
+      { "en": "leave a nasty taste in my mouth", "jp": "後味が悪い" }
+    ]
+  },
+  {
+    "id": 1272,
+    "word": "insane",
+    "examples": [
+      { "en": "Have you gone insane?", "jp": "正気を失ったか？" }
+    ]
+  },
+  {
+    "id": 1273,
+    "word": "ridiculous",
+    "examples": [
+      { "en": "I believe that lowering the voting age is a ridiculous idea.", "jp": "ばかげた考えだと思う。" }
+    ]
+  },
+  {
+    "id": 1274,
+    "word": "notorious",
+    "examples": [
+      { "en": "That clothing shop is notorious for its poor quality.", "jp": "低品質で悪名高い。" }
+    ]
+  },
+  {
+    "id": 1275,
+    "word": "evil",
+    "examples": [
+      { "en": "an evil spirit", "jp": "悪霊" },
+      { "en": "Racism is a social evil.", "jp": "人種差別は社会悪だ。" }
+    ]
+  },
+  {
+    "id": 1276,
+    "word": "mess",
+    "examples": [
+      { "en": "make a mess of the room", "jp": "部屋をめちゃくちゃにする" },
+      { "en": "Don't mess with me!", "jp": "からかうな！" }
+    ]
+  },
+  {
+    "id": 1277,
+    "word": "vast",
+    "examples": [
+      { "en": "a vast palace", "jp": "広大な宮殿" },
+      { "en": "a vast amount of money", "jp": "巨額のお金" }
+    ]
+  },
+  {
+    "id": 1278,
+    "word": "huge",
+    "examples": [
+      { "en": "a huge elephant", "jp": "巨大なゾウ" }
+    ]
+  },
+  {
+    "id": 1279,
+    "word": "tiny",
+    "examples": [
+      { "en": "a tiny hole in the wall", "jp": "壁に開いたとても小さな穴" }
+    ]
+  },
+  {
+    "id": 1280,
+    "word": "sphere",
+    "examples": [
+      { "en": "a perfect sphere", "jp": "完全な球体" },
+      { "en": "his achievements in the diplomatic sphere", "jp": "外交面での彼の業績" }
+    ]
+  },
+  {
+    "id": 1281,
+    "word": "strip",
+    "examples": [
+      { "en": "a strip of paper", "jp": "細長い紙片" },
+      { "en": "strip him of his rank", "jp": "彼から地位を奪う" },
+      { "en": "strip down to the waist", "jp": "上半身裸になる" }
+    ]
+  },
+  {
+    "id": 1282,
+    "word": "internal",
+    "examples": [
+      { "en": "internal organs", "jp": "内臓" },
+      { "en": "the internal problems of Japan", "jp": "国内の問題" }
+    ]
+  },
+  {
+    "id": 1283,
+    "word": "mobile",
+    "examples": [
+      { "en": "a mobile society", "jp": "流動的な社会" },
+      { "en": "Call me on my mobile.", "jp": "携帯電話に電話してください。" }
+    ]
+  },
+  {
+    "id": 1284,
+    "word": "steep",
+    "examples": [
+      { "en": "climb steep stone steps", "jp": "急な石段を上る" },
+      { "en": "a steep price rise", "jp": "物価の急騰" }
+    ]
+  },
+  {
+    "id": 1285,
+    "word": "intense",
+    "examples": [
+      { "en": "intense pressure to succeed", "jp": "成功しなければという強烈な重圧" }
+    ]
+  },
+  {
+    "id": 1286,
+    "word": "abstract",
+    "examples": [
+      { "en": "an abstract work of art", "jp": "抽象的な芸術作品" },
+      { "en": "an abstract of this paper", "jp": "論文の要旨" }
+    ]
+  },
+  {
+    "id": 1287,
+    "word": "inevitable",
+    "examples": [
+      { "en": "an inevitable result", "jp": "避けられない結果" }
+    ]
+  },
+  {
+    "id": 1288,
+    "word": "neutral",
+    "examples": [
+      { "en": "a demilitarized neutral zone", "jp": "非武装中立地帯" },
+      { "en": "carbon neutral", "jp": "炭素中立" }
+    ]
+  },
+  {
+    "id": 1289,
+    "word": "brief",
+    "examples": [
+      { "en": "have a brief conversation with her", "jp": "手短な会話をする" },
+      { "en": "in brief", "jp": "要するに" }
+    ]
+  },
+  {
+    "id": 1290,
+    "word": "potential",
+    "examples": [
+      { "en": "a potential customer", "jp": "将来の顧客" },
+      { "en": "That child actor has a lot of potential.", "jp": "大きな可能性がある。" }
+    ]
+  },
+  {
+    "id": 1291,
+    "word": "tough",
+    "examples": [
+      { "en": "a tough soldier", "jp": "たくましい兵士" },
+      { "en": "have a tough time", "jp": "厳しい時間を過ごす" }
+    ]
+  },
+  {
+    "id": 1292,
+    "word": "secondhand",
+    "examples": [
+      { "en": "secondhand bookstores", "jp": "中古本屋" },
+      { "en": "secondhand news", "jp": "また聞きのニュース" }
+    ]
+  },
+  {
+    "id": 1293,
+    "word": "resemble",
+    "examples": [
+      { "en": "Peter resembles his father in every way.", "jp": "あらゆる点で父親に似ている。" }
+    ]
+  },
+  {
+    "id": 1294,
+    "word": "contrary",
+    "examples": [
+      { "en": "on the contrary, he is a genius.", "jp": "それどころか天才だ。" },
+      { "en": "contrary to popular belief", "jp": "世間の考えとは反対に" },
+      { "en": "evidence to the contrary", "jp": "その逆の証拠" }
+    ]
+  },
+  {
+    "id": 1295,
+    "word": "category",
+    "examples": [
+      { "en": "fall into the same category", "jp": "同じ範疇に属する" }
+    ]
+  },
+  {
+    "id": 1296,
+    "word": "scope",
+    "examples": [
+      { "en": "limit the scope of our activities", "jp": "活動範囲を制限する" }
+    ]
+  },
+  {
+    "id": 1297,
+    "word": "respective",
+    "examples": [
+      { "en": "Go back to your respective rooms.", "jp": "それぞれの部屋に戻りなさい。" }
+    ]
+  },
+  {
+    "id": 1298,
+    "word": "given",
+    "examples": [
+      { "en": "a given period of time", "jp": "ある一定の期間" },
+      { "en": "Given the situation, you did well.", "jp": "状況を考慮すれば" }
+    ]
+  },
+  {
+    "id": 1299,
+    "word": "peculiar",
+    "examples": [
+      { "en": "a custom peculiar to Japan", "jp": "日本固有の習慣" },
+      { "en": "a peculiar smell of garlic", "jp": "にんにくの独特な臭い" }
+    ]
+  }
+]
